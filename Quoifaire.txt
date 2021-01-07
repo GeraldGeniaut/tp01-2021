@@ -23,3 +23,5 @@
  - suprimer la liaison :  git remote delete origin
 
  - activer la liaison sur son propre espace : git remote add origin http://github.com/monespace/tp01-2021
+
+ - Pour transferer : git push origin master
